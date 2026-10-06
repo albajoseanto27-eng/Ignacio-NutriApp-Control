@@ -1,0 +1,417 @@
+{
+  "version": 3,
+  "masterFoods": [
+    {
+      "id": "desayuno-huevos-revueltos-o-cocidos",
+      "meal": "desayuno",
+      "text": "Huevos (revueltos o cocidos)",
+      "notes": "Aceptado",
+      "groups": [
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "custom": false
+    },
+    {
+      "id": "desayuno-leche-con-cereales-sin-gluten",
+      "meal": "desayuno",
+      "text": "Leche con cereales sin gluten",
+      "notes": "",
+      "groups": [
+        6,
+        9,
+        10
+      ],
+      "custom": false
+    },
+    {
+      "id": "desayuno-pan-sin-gluten-con-ghee",
+      "meal": "desayuno",
+      "text": "Pan sin gluten con ghee",
+      "notes": "",
+      "groups": [
+        9,
+        11
+      ],
+      "custom": false
+    },
+    {
+      "id": "desayuno-patata-cocida-o-pure",
+      "meal": "desayuno",
+      "text": "Patata cocida o puré",
+      "notes": "Aceptado",
+      "groups": [
+        2,
+        4,
+        7,
+        9,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "desayuno-zanahoria-cocida",
+      "meal": "desayuno",
+      "text": "Zanahoria cocida",
+      "notes": "Aceptado",
+      "groups": [
+        1,
+        5,
+        7
+      ],
+      "custom": false
+    },
+    {
+      "id": "comida-arroz",
+      "meal": "comida",
+      "text": "Arroz",
+      "notes": "Aceptado",
+      "groups": [
+        2,
+        4,
+        7,
+        9,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "comida-dorada-o-rosada-horno-vapor",
+      "meal": "comida",
+      "text": "Dorada o rosada (horno/vapor)",
+      "notes": "Aceptado",
+      "groups": [
+        4,
+        6,
+        8,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "comida-judias-verdes",
+      "meal": "comida",
+      "text": "Judías verdes",
+      "notes": "Aceptado",
+      "groups": [
+        1,
+        2,
+        7,
+        8
+      ],
+      "custom": false
+    },
+    {
+      "id": "comida-pollo-asado",
+      "meal": "comida",
+      "text": "Pollo asado",
+      "notes": "",
+      "groups": [
+        8
+      ],
+      "custom": true
+    },
+    {
+      "id": "comida-potaje-batido-garbanzos-lentejas-cebolla-tomate-",
+      "meal": "comida",
+      "text": "Potaje batido (garbanzos/lentejas + cebolla + tomate + pimiento)",
+      "notes": "Solo batido",
+      "groups": [
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      "custom": false
+    },
+    {
+      "id": "merienda-bizcocho-casero",
+      "meal": "merienda",
+      "text": "Bizcocho casero",
+      "notes": "",
+      "groups": [
+        9
+      ],
+      "custom": false
+    },
+    {
+      "id": "merienda-huevo-duro",
+      "meal": "merienda",
+      "text": "Huevo duro",
+      "notes": "Aceptado",
+      "groups": [
+        3,
+        4,
+        6,
+        7,
+        8
+      ],
+      "custom": false
+    },
+    {
+      "id": "merienda-manzana",
+      "meal": "merienda",
+      "text": "Manzana",
+      "notes": "",
+      "groups": [
+        1,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "merienda-patata-cocida",
+      "meal": "merienda",
+      "text": "Patata cocida",
+      "notes": "Aceptado",
+      "groups": [
+        2,
+        4,
+        7,
+        9,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "merienda-platano",
+      "meal": "merienda",
+      "text": "Plátano",
+      "notes": "",
+      "groups": [
+        1,
+        2,
+        3,
+        4,
+        7
+      ],
+      "custom": false
+    },
+    {
+      "id": "cena-brocoli-en-pure",
+      "meal": "cena",
+      "text": "Brócoli en puré",
+      "notes": "Solo puré",
+      "groups": [
+        1,
+        5,
+        6,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "cena-dorada",
+      "meal": "cena",
+      "text": "Dorada",
+      "notes": "Aceptado",
+      "groups": [
+        4,
+        6,
+        8,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "cena-habichuelas-patata-arroz",
+      "meal": "cena",
+      "text": "Habichuelas + patata/arroz",
+      "notes": "Aceptado",
+      "groups": [
+        1,
+        2,
+        7,
+        8,
+        9
+      ],
+      "custom": false
+    },
+    {
+      "id": "cena-potaje-de-legumbres-batido",
+      "meal": "cena",
+      "text": "Potaje de legumbres batido",
+      "notes": "Aceptado",
+      "groups": [
+        2,
+        4,
+        6,
+        7,
+        8
+      ],
+      "custom": false
+    },
+    {
+      "id": "cena-rosada-plancha-o-vapor",
+      "meal": "cena",
+      "text": "Rosada plancha o vapor",
+      "notes": "",
+      "groups": [
+        4,
+        6,
+        8,
+        12
+      ],
+      "custom": false
+    },
+    {
+      "id": "aderezos-aceite-de-oliva-virgen-extra",
+      "meal": "aderezos",
+      "text": "Aceite de oliva virgen extra",
+      "notes": "Diario",
+      "groups": [
+        11
+      ],
+      "custom": false
+    },
+    {
+      "id": "aderezos-cilantro",
+      "meal": "aderezos",
+      "text": "Cilantro",
+      "notes": "",
+      "groups": [
+        1,
+        5
+      ],
+      "custom": false
+    },
+    {
+      "id": "aderezos-curcuma",
+      "meal": "aderezos",
+      "text": "Cúrcuma",
+      "notes": "",
+      "groups": [
+        1,
+        11
+      ],
+      "custom": false
+    },
+    {
+      "id": "aderezos-ghee",
+      "meal": "aderezos",
+      "text": "Ghee",
+      "notes": "",
+      "groups": [
+        11
+      ],
+      "custom": false
+    },
+    {
+      "id": "aderezos-perejil",
+      "meal": "aderezos",
+      "text": "Perejil",
+      "notes": "",
+      "groups": [
+        1,
+        11
+      ],
+      "custom": false
+    }
+  ],
+  "supplements": [
+    {
+      "id": 1,
+      "name": "Omega-3 (DHA/EPA)",
+      "dose": "Según indicación",
+      "time": "Con comida",
+      "custom": false
+    },
+    {
+      "id": 2,
+      "name": "Vitamina D3",
+      "dose": "2 gotas",
+      "time": "Mañana con grasa",
+      "custom": false
+    },
+    {
+      "id": 3,
+      "name": "Magnesio",
+      "dose": "Según peso/edad",
+      "time": "Noche",
+      "custom": false
+    },
+    {
+      "id": 4,
+      "name": "Complejo B (B6+B9+B12)",
+      "dose": "1/6 de la cápsula",
+      "time": "Mañana o mediodía máximo. Se pone nervioso.",
+      "custom": false
+    },
+    {
+      "id": 5,
+      "name": "Probiótico / Prebiótico",
+      "dose": "Si se indica",
+      "time": "Con comida",
+      "custom": false
+    },
+    {
+      "id": 6,
+      "name": "PEA palmitoiletanolamida",
+      "dose": "1 cápsula c/agua + 1 cucharadita AOVE",
+      "time": "Mediodía",
+      "custom": false
+    },
+    {
+      "id": 7,
+      "name": "Bisglicinato de magnesio",
+      "dose": "1/2 cápsula",
+      "time": "Mediodía",
+      "custom": false
+    },
+    {
+      "id": 8,
+      "name": "Treonato de magnesio",
+      "dose": "1/2 cápsula",
+      "time": "Desayuno",
+      "custom": false
+    },
+    {
+      "id": 9,
+      "name": "L-teanina",
+      "dose": "1/5 cápsula",
+      "time": "Con desayuno y almuerzo. Antes de las 17:00",
+      "custom": false
+    }
+  ],
+  "days": {
+    "2026-09-25": {
+      "mood": {
+        "notes": "",
+        "overall": 5,
+        "symptoms": {},
+        "variable": false,
+        "colaborador": false
+      },
+      "notes": "",
+      "checked": {
+        "comida-pollo-asado": true,
+        "desayuno-pan-sin-gluten-con-ghee": true,
+        "aderezos-aceite-de-oliva-virgen-extra": true,
+        "desayuno-leche-con-cereales-sin-gluten": true
+      },
+      "supplements": {
+        "6": {
+          "taken": true,
+          "source": "manual"
+        },
+        "7": {
+          "taken": true,
+          "source": "manual"
+        },
+        "8": {
+          "taken": true,
+          "source": "manual"
+        },
+        "9": {
+          "taken": true,
+          "source": "manual"
+        }
+      }
+    }
+  },
+  "weekMenus": []
+}
